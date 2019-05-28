@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Quentin Meteier / Psychophysiological model of the driver state in semi-autonomous cars"
+title                    : "PhD website"
 title_separator          : "-"
 name                     : &name "Quentin Meteier"
 description              : &description "PhD Student in Computer Science at the University of Fribourg (Switzerland) and scientific collaborators at HumanTech Institute"
