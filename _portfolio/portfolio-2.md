@@ -1,6 +1,6 @@
 ---
 title: "Recording psychophysiological data"
-excerpt: "A participant driving in the simulator while psychophysiological data are recorded <br/><img src='/images/test_capteurs_quentin.png'>"
+excerpt: "A participant driving in the simulator while psychophysiological data are recorded <br/><img src='/images/test_capteurs_quentin.jpg'>"
 collection: portfolio
 ---
 
