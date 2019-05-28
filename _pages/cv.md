@@ -27,7 +27,7 @@ Work experience
   * Configuration and integration of robotic cells in the automation and robotics design office
   
 * February - April 2015: Schneider Electric - Lattes (France)
-Programming of a Graphical User Interface (GUI) for a configuration tool in C#.
+  * Programming of a Graphical User Interface (GUI) for a configuration tool in C#.
 
 Study projects
 ======
