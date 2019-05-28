@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2 <br/><img src='/images/500x300.png'>"
+title: "Recording psychophysiological data"
+excerpt: "A participant driving in the simulator while psychophysiological data are recorded <br/><img src='/images/test_capteurs_quentin.png'>"
 collection: portfolio
 ---
 
