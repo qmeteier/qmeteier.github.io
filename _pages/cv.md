@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* 2016-2017 - Master of Science in Embedded Systems and Robotics, University of Salford (Manchester), England
+* 2014-2017 - Master of Engineering, Ecole Supérieure des Technologies Industrielles Avancées (ESTIA), Bidart (France)
+* 2012-2014 - Preparatory class, Physics and Technology option, Lycée Jacques de Vaucanson, Tours (France)
+* 2009-2012 - Scientific Baccalauréat, Engineering option, with honors, Lycée Jacques de Vaucanson, Tours (France)
 
 Work experience
 ======
