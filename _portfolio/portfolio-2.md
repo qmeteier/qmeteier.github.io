@@ -4,4 +4,4 @@ excerpt: "A participant driving in the simulator while psychophysiological data 
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+Here, we can see a participant driving in the simulator while psychophysiological data are recorded. Electrodes are applied on the skin of the partcipants in order to record the ECG and EDA. A chest belt is also used to record the respiration of each participant. 
