@@ -11,13 +11,18 @@ redirect_from:
 
 Education
 ======
-* 2016-2017 - Master of Science in Embedded Systems and Robotics, University of Salford (Manchester), England
-* 2014-2017 - Master of Engineering, Ecole Supérieure des Technologies Industrielles Avancées (ESTIA), Bidart (France)
-* 2012-2014 - Preparatory class, Physics and Technology option, Lycée Jacques de Vaucanson, Tours (France)
-* 2009-2012 - Scientific Baccalauréat, Engineering option, with honors, Lycée Jacques de Vaucanson, Tours (France)
+* 2018-now - PhD student, University of Fribourg (Switzerland)
+* 2016-2017 - Master of Science in Embedded Systems and Robotics, University of Salford (Manchester, England)
+* 2014-2017 - Master of Engineering, Ecole Supérieure des Technologies Industrielles Avancées (ESTIA; Bidart, France)
+* 2012-2014 - Preparatory class, Physics and Technology option, Lycée Jacques de Vaucanson (Tours, France)
+* 2009-2012 - Scientific Baccalauréat, Engineering option, with honors, Lycée Jacques de Vaucanson (Tours, France)
 
 Work experience
 ======
+* February 2018 - now: HumanTech Institute - Fribourg (Switzerland)
+  * Scientific collaborator and teaching assistant
+  * AdVitam project : Adaptive Driver-Vehicle Interaction to make future driving safer
+
 * June - November 2017: Thales Communications & Security - Gennevilliers (France)
   * Porting and evolution of a Graphical User Interface (GUI) on a naval radio
   * Secured Linux environment - Programming in Python - Use of Raspberry Pi - I2C
@@ -42,12 +47,11 @@ Study projects
   
 Skills
 ======
-* Languages : French (mothertongue), English (C1, TOEIC: 860), Spanish (B2)
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Languages : French (mothertongue), English (C1, TOEIC: 860), Spanish (B2), German (A1)
+* Machine Learning
+* Embedded systems : Arduino
+* Unity
+* Knowledge in physiology
 
 Publications
 ======
@@ -67,6 +71,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Hobbies
 ======
-* Currently signed in to 43 different slack teams
+* Football, Music and TV shows
