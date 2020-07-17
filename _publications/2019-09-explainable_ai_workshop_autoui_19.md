@@ -1,10 +1,10 @@
 ---
 title: "Workshop on explainable AI in automated driving: a user-centered interaction approach"
 collection: publications
-permalink: /publications/2019-09-explainable_ai_workshop_autoui_19.md
 excerpt: ''
 date: 2019-09-01
-venue: 'AutomotiveUI'19: the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications. Utrecht, Netherlands'
+venue: 'AutomotiveUI'19: the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications.'
+location: "Utrecht, Netherlands"
 paperurl: ''
 citation: 'Quentin Meteier, Marine Capallera, Leonardo Angelini, Elena Mugellini, Omar Abou Khaled, Stefano Carrino, Emmanuel De Salis, Stéphane Galland, and Susanne Boll. 2019. Workshop on explainable AI in automated driving: a user-centered interaction approach. In Proceedings of the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications: Adjunct Proceedings (AutomotiveUI ’19). Association for Computing Machinery, New York, NY, USA, 32–37.'
 ---
