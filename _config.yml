@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "PhD website"
 title_separator          : "-"
 name                     : &name "Quentin Meteier"
-description              : &description "PhD Student in Computer Science at the University of Fribourg (Switzerland) and scientific collaborators at HumanTech Institute"
+description              : &description "PhD Student in Computer Science at the University of Fribourg (Switzerland) // Scientific collaborator at HumanTech Institute"
 url                      : https://qmeteier.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -86,10 +86,10 @@ author:
   location         : "Fribourg (Switzerland)"
   employer         : "HumanTech Institute"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=UeIjNW8AAAAJ&hl=fr"
   email            : "quentin.meteier@hefr.ch"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  uri              : "http://preview.humantech.institute/people/quentin-meteier/15"
+  researchgate     : "https://www.researchgate.net/profile/Quentin_Meteier"
+  uri              : "http://humantech.institute/people/quentin-meteier/15"
   bitbucket        :
   codepen          :
   dribbble         :
