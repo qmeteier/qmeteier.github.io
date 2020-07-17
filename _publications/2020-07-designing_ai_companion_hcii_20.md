@@ -1,8 +1,8 @@
 ---
 title: "Designing an AI-Companion to Support the Driver in Highly Autonomous Cars"
 collection: publications
-permalink: /publications/2020-07-designing_ai_companion_hcii_20
 excerpt: ''
+type: 'Publication'
 date: 2020-07-01
 venue: 'HCII 2020: Human-Computer Interaction. Multimodal and Natural Interaction.'
 paperurl: ''
