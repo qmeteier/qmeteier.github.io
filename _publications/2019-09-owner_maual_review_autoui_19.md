@@ -2,6 +2,7 @@
 title: "Owner Manuals Review and Taxonomy of ADAS Limitations in Partially Automated Vehicles"
 collection: publications
 excerpt: ''
+type: 'Publication'
 date: 2019-09-23
 venue: 'AutomotiveUI '19: the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications. Utrecht, Netherlands'
 paperurl: 'http://qmeteier.github.io/files/owner_maual_review_autoui_19.pdf'

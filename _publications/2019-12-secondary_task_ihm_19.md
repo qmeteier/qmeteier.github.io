@@ -2,9 +2,10 @@
 title: "Secondary task and situation awareness, a mobile application for semi-autonomous vehicle"
 collection: publications
 excerpt: ''
+type: 'Publication'
 date: 2019-12-13
 venue: 'IHM '19: 31st Conference on l'Interaction Homme-Machine. Grenoble, France'
-paperurl: 'http://qmeteier.github.io/files/secondary_task_ihm_19.pdf'
+paperurl: ''
 citation: 'Marine Capallera, Quentin Meteier, Emmanuel de Salis, Leonardo Angelini, Stefano Carrino, Omar Abou Khaled, and Elena Mugellini. 2019. Secondary task and situation awareness, a mobile application for semi-autonomous vehicle. In Proceedings of the 31st Conference on l’Interaction Homme-Machine (IHM ’19). Association for Computing Machinery, New York, NY, USA, Article 12, 1–10.
 ---
 

@@ -2,6 +2,7 @@
 title: "Workshop on explainable AI in automated driving: a user-centered interaction approach"
 collection: publications
 excerpt: ''
+type: 'Publication'
 date: 2019-09-01
 venue: 'AutomotiveUI'19: the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications.'
 location: "Utrecht, Netherlands"
