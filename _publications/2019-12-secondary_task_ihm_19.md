@@ -1,5 +1,4 @@
----
-title: "Secondary task and situation awareness, a mobile application for semi-autonomous vehicle"
+title: 'Secondary task and situation awareness, a mobile application for semi-autonomous vehicle'
 collection: publications
 excerpt: ''
 type: 'Publication'
