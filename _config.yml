@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "qmeteier"
+  github           : #"qmeteier"
   gitlab           : "https://gitlab.forge.hefr.ch/AdVitam/AdVitam_Psychophysio_data"
   google_plus      :
   keybase          :
@@ -188,6 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  supervision:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -243,6 +246,14 @@ defaults:
       type: talks
     values:
       layout: talk
+      author_profile: true
+      share: true
+  # _supervision
+  - scope:
+      path: ""
+      type: supervision
+    values:
+      layout: single
       author_profile: true
       share: true
 
