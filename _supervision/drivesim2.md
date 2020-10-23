@@ -1,18 +1,18 @@
 ---
-title: "DriveSim : Creation of a rural scenario for a semi-autonomous driving simulator"
+title: "DriveSim 2 : Creation of a urban scenario for a semi-autonomous driving simulator"
 collection: supervision
 type: "Semester project"
-permalink: /supervision/drivesim
+permalink: /supervision/drivesim2
 venue: "HES-SO // University of Applied Sciences Western Switzerland"
-date: 2019-01-31
+date: 2020-01-31
 location: "Fribourg, Switzerland"
 ---
 
 Project details 
 ======
-1 student to supervise.
-The student worked 4 hours per week, during 5 months.
-1 meeting per week.
+* 2 students to supervise.
+* Students worked 4 hours per week for 5 months.
+* 1 meeting per week.
 
 
 Context of the project 
@@ -24,10 +24,15 @@ To date, technological advances have made it possible to automate vehicles. For 
 Tasks done by the student
 ======
 
-* Implementation of 3 critical situations (e.g. limitations) from the initial scenario :
-	* an area with bad weather (Rain)
-	* an area with erased road markings
-	* an area with a winding road and relief
-* Creation of a Python script allowing the automated modification of the shape of the road
-* Test of the implemented scenario on the driving scenario with 3 users
-* Evaluation the realism of the elements integrated in the scenario, based on user ratings
+* Implementation of 5 critical situations (e.g. limitations) from the initial urban scenario :
+	* a ball crossing the road
+	* a cyclist in the left lane
+	* a construction zone
+	* road markings damaged
+	* a pedestrian crossing the road
+* Implementation of the car autopilot in the city :
+	* path of the car in the city
+	* traffic lights management
+	* traffic management (braking or accelerating depending on traffic)
+* Test of the implemented scenario on the driving scenario with few users
+* Evaluation the realism and dangerousness of the elements integrated in the scenario, based on user ratings
