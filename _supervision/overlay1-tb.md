@@ -8,8 +8,6 @@ date: 2019-06-01
 location: "Neuchâtel, Switzerland"
 ---
 
-Project details 
-======
 * 1 student to supervise.
 * The student worked full-time for 3 months.
 * Approximately 1 meeting per month.

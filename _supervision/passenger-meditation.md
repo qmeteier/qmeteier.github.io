@@ -8,8 +8,6 @@ date: 2018-06-30
 location: "Fribourg, Switzerland"
 ---
 
-Project details 
-======
 * 4 students to supervise.
 * The students worked few hours a week for 4 months.
 * Supporting the student for designing the experiment and collecting the data. 

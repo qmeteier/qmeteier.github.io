@@ -8,8 +8,8 @@ date: 2019-01-01
 location: "Fribourg, Switzerland"
 ---
 
-Teaching assistant for practical exercices for 2 years (2018-2020).
-This course is followed by bachelor students in computer science (3rd year).
+Teaching assistant for practical exercices for <strong>2 years</strong> (2018-2020).
+This course is followed by bachelor students in <strong>computer science</strong> (3rd year).
 
 
 Objectives

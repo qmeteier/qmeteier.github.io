@@ -8,8 +8,6 @@ date: 2019-06-30
 location: "Fribourg, Switzerland"
 ---
 
-Project details 
-======
 * 1 student to supervise.
 * The student worked 4 hours a week for 3 months.
 * Approximately 1 meeting per month.
