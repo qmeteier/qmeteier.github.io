@@ -47,11 +47,22 @@ Study projects
   
 Skills
 ======
-* Languages : French (mothertongue), English (C1, TOEIC: 860), Spanish (B2), German (A1)
-* Machine Learning
+* Languages :
+  * French (mothertongue)
+  * English (C1, TOEIC: 860)
+  * Spanish (B2)
+  * German (A1)
+* Physiology : processing of data and indicators
+* Coding : Python, Java, C#, C, JavaScript, NodeJS, HTML/CSS
+* Artificial Intelligence : Machine Learning and Deep Learning
+* Project Management
+* Psychology
+  * Experimental manipulation
+  * Setting up an experiment : procedure, material and questionnaire
+  * Data analysis : SPSS or R
 * Embedded systems : Arduino
-* Unity
-* Knowledge in physiology
+* Game design in Unity
+* Human Machine Interaction : VR and AR
 
 Publications
 ======
