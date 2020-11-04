@@ -5,6 +5,7 @@ excerpt: ''
 type: 'Publication'
 date: 2019-09-23
 venue: 'AutomotiveUI 19: the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications. Utrecht, Netherlands'
+venue-short: 'AutomotiveUI 19'
 citation: 'Marine Capallera, Quentin Meteier, Emmanuel de Salis, Leonardo Angelini, Stefano Carrino, Omar Abou Khaled, and Elena Mugellini. 2019. Owner Manuals Review and Taxonomy of ADAS Limitations in Partially Automated Vehicles. In Proceedings of the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI 19). Association for Computing Machinery, New York, NY, USA, 156–164. DOI:https://doi.org/10.1145/3342197.3344530.'
 ---
 

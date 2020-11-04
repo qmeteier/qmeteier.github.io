@@ -5,6 +5,7 @@ excerpt: ''
 type: 'Publication'
 date: 2020-07-01
 venue: 'HCII 2020: Human-Computer Interaction. Multimodal and Natural Interaction.'
+venue-short: 'HCII 2020'
 paperurl: ''
 citation: 'de Salis E. et al. (2020) Designing an AI-Companion to Support the Driver in Highly Autonomous Cars. In: Kurosu M. (eds) Human-Computer Interaction. Multimodal and Natural Interaction. HCII 2020. Lecture Notes in Computer Science, vol 12182. Springer, Cham.'
 ---

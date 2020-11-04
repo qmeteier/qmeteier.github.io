@@ -5,6 +5,7 @@ excerpt: ''
 type: 'Publication'
 date: 2019-09-23
 venue: 'AutomotiveUI 19: the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications. Utrecht, Netherlands'
+venue-short : 'AutomotiveUI 19'
 paperurl: ''
 citation: 'Marine Capallera, Emmanuel de Salis, Quentin Meteier, Leonardo Angelini, Stefano Carrino, Omar Abou Khaled, and Elena Mugellini. 2019. Secondary task and situation awareness, a mobile application for conditionally automated vehicles. In Proceedings of the 11th International Conference on Automotive User Interfaces and Interactive Vehicular Applications: Adjunct Proceedings (AutomotiveUI 19). Association for Computing Machinery, New York, NY, USA, 86–92. DOI:https://doi.org/10.1145/3349263.3351500'
 ---

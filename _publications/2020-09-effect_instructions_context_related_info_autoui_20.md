@@ -4,7 +4,8 @@ collection: publications
 excerpt: ''
 type: 'Publication'
 date: 2020-09-22
-venue: ' AutomotiveUI 20: 12th International Conference on Automotive User Interfaces and Interactive Vehicular Applications. Washington (Virtual Event), USA'
+venue: 'AutomotiveUI 20: 12th International Conference on Automotive User Interfaces and Interactive Vehicular Applications. Washington (Virtual Event), USA'
+venue-short: 'AutomotiveUI 20'
 paperurl: ''
 citation: 'Quentin Meteier, Marine Capallera, Emmanuel de Salis, Andreas Sonderegger, Leonardo Angelini, Stefano Carrino, Omar Abou Khaled, and Elena Mugellini. 2020. The Effect of Instructions and Context-Related Information about Limitations of Conditionally Automated Vehicles on Situation Awareness. In 12th International Conference on Automotive User Interfaces and Interactive Vehicular Applications (AutomotiveUI 20). Association for Computing Machinery, New York, NY, USA, 241–251. DOI:https://doi.org/10.1145/3409120.3410649'
 ---
